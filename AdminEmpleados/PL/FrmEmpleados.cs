@@ -62,6 +62,7 @@ namespace AdminEmpleados.PL
 
                 imagenByte = memory.ToArray();
             }
+
         }
 
         private void btn_Agregar_Click(object sender, EventArgs e)
@@ -132,7 +133,20 @@ namespace AdminEmpleados.PL
                 txt__PApellido.Text = dgv_Empleado.Rows[indice].Cells[2].Value.ToString();
                 txt__SApellido.Text = dgv_Empleado.Rows[indice].Cells[3].Value.ToString();
                 txt_Correo.Text = dgv_Empleado.Rows[indice].Cells[4].Value.ToString();
-
+               
+                object imagenCelda = dgv_Empleado.Rows[indice].Cells[5].Value;
+                if (imagenCelda != null && imagenCelda != DBNull.Value)
+                {
+                    byte[] imageData = (byte[])imagenCelda;
+                    using (MemoryStream ms = new MemoryStream(imageData))
+                    {
+                        pic_Foto.Image = Image.FromStream(ms);
+                    }
+                }
+                else
+                {
+                    pic_Foto.Image = null;
+                }
 
                 btn_Agregar.Enabled = false;
                 btn_Borrar.Enabled = true;
@@ -153,6 +167,8 @@ namespace AdminEmpleados.PL
             txt__PApellido.Text = "";
             txt__SApellido.Text = "";
             txt_Correo.Text = "";
+            pic_Foto.Image = null;
+
             btn_Agregar.Enabled = true;
             btn_Borrar.Enabled = false;
             btn_Cancelar.Enabled = false;
@@ -162,6 +178,11 @@ namespace AdminEmpleados.PL
         private void btn_Cancelar_Click(object sender, EventArgs e)
         {
             limpiarEntradas();
+        }
+
+        private void pic_Foto_Click(object sender, EventArgs e)
+        {
+
         }
     }
 

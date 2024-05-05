@@ -10,3 +10,39 @@ C:\Users\porti\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmplead
 C:\Users\porti\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
 C:\Users\porti\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
 C:\Users\porti\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.FrmPrincipal.resources
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.AssemblyReference.cache
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.FrmPrincipal.resources
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmDepartamentos.resources
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmEmpleados.resources
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\porti\Downloads\Proyecto VS\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.AssemblyReference.cache
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.FrmPrincipal.resources
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmDepartamentos.resources
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmEmpleados.resources
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\porti\Downloads\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.AssemblyReference.cache
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.FrmPrincipal.resources
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmDepartamentos.resources
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.FrmEmpleados.resources
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\porti\Desktop\Proyectos Visual Studio\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb

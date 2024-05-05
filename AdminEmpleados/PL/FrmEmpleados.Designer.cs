@@ -188,6 +188,7 @@
             this.pic_Foto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pic_Foto.TabIndex = 25;
             this.pic_Foto.TabStop = false;
+            this.pic_Foto.Click += new System.EventHandler(this.pic_Foto_Click);
             // 
             // cbx_Departamento
             // 
