@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\AdminEmpleados\\PL\\FrmEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|solutionrelative:AdminEmpleados\\PL\\FrmEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|c:\\users\\porti\\desktop\\proyectos visual studio\\adminempleados\\adminempleados\\pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|solutionrelative:adminempleados\\pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\adminempleados\\pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|solutionrelative:AdminEmpleados\\DAL\\ConexionDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|c:\\users\\porti\\desktop\\proyectos visual studio\\adminempleados\\adminempleados\\pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\adminempleados\\pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B3A4BA0-0F25-486C-A552-41EC30EF9217}|AdminEmpleados\\AdminEmpleados.csproj|solutionrelative:adminempleados\\pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -99,7 +99,7 @@
               "RelativeDocumentMoniker": "AdminEmpleados\\PL\\FrmEmpleados.cs",
               "ToolTip": "C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\AdminEmpleados\\PL\\FrmEmpleados.cs",
               "RelativeToolTip": "AdminEmpleados\\PL\\FrmEmpleados.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAswKoAAAAAAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwKoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T07:52:10.026Z",
               "EditorCaption": ""
@@ -114,8 +114,7 @@
               "RelativeToolTip": "AdminEmpleados\\DAL\\EmpleadosDAL.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAkwAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T07:52:07.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T07:52:07.393Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "AdminEmpleados\\DAL\\ConexionDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T07:52:07.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T07:52:07.4Z"
             },
             {
               "$type": "Document",
@@ -151,8 +149,7 @@
               "ToolTip": "C:\\Users\\porti\\Desktop\\Proyectos Visual Studio\\AdminEmpleados\\AdminEmpleados\\PL\\FrmDepartamentos.cs [Dise\u00F1o]",
               "RelativeToolTip": "AdminEmpleados\\PL\\FrmDepartamentos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T07:52:10.017Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-04T07:52:10.017Z"
             },
             {
               "$type": "Document",
